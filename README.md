@@ -140,6 +140,12 @@ Models are evaluated using:
 Hyperparameter tuning was performed separately due to computational limits in Google Colab.
 
 ---
+## 📦 Large Files
+
+This project uses Git LFS to store large dataset files (e.g., `.zip`).
+Make sure Git LFS is installed to download the dataset correctly.
+
+---
 
 ## 👤 Author
 
