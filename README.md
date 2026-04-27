@@ -143,8 +143,8 @@ Hyperparameter tuning was performed separately due to computational limits in Go
 
 ## 👤 Author
 
-Aya Mohammed 
-Afrah Bashaddadah
+Aya Mohammed - 
+Afrah Bashaddadah - 
 Afnan Kamel
 
 CS4082 Project
