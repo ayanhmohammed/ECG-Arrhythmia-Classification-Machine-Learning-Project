@@ -14,9 +14,12 @@ project-folder/
 │   ├── RF.py
 │   └── xgb.py
 ├── requirements.txt
+├── .gitattributes
 └── data/
     ├── training2017.zip
     └── REFERENCE-v3.csv
+
+
 ```
 
 ---
