@@ -9,7 +9,7 @@
 ```
 project-folder/
 │
-├── FTAECG_CS4082_Full_Project.ipynb
+├── ECG_CS4082_Full_Project.ipynb
 ├── RandomizedSearchCV/
 │   ├── RF.py
 │   └── xgb.py
